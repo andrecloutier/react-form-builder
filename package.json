@@ -24,6 +24,7 @@
   "author": "Jason Kadrmas",
   "license": "MIT",
   "dependencies": {
+    "react": "^15.5.4",
     "@uber/react-datepicker": "5.0.1",
     "@uber/react-select": "7.1.15",
     "classnames": "^2.1.3",
