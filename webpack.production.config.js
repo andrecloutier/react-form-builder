@@ -18,7 +18,6 @@ module.exports = {
     'react/addons': true,
     'react-dom': 'react-dom',
     'react-datepicker': 'react-datepicker',
-    'react/addons': 'react/addons',
     'classnames': 'classnames',
     'jquery': 'jquery',
     'bootstrap': 'bootstrap'
