@@ -13,7 +13,9 @@ module.exports = {
   externals: {
     //don't bundle the 'react' npm package with our bundle.js
     //but get it from a global 'React' variable
+    
     'react': 'react',
+    'react/addons': true,
     'react-dom': 'react-dom',
     'react-datepicker': 'react-datepicker',
     'react/addons': 'react/addons',
