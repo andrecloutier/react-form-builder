@@ -1,5 +1,5 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from "@uber/react";
+import ReactDOM from "@uber/react-dom";
 import DemoBar from './demobar';
 import FormBuilder from "./src/index";
 import * as variables from './variables'
